@@ -1,6 +1,8 @@
 # module_name.ex
 defmodule M do
   def hello do
-    IO.puts "Hello World"
+    IO.puts "Hello Word"
+
   end
+
 end
